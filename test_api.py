@@ -3,7 +3,7 @@ import os
 
 # The filename of the floor plan image you downloaded
 IMAGE_PATH = 'first_floor.png'
-
+    
 # The URL of the running API server
 API_URL = 'http://127.0.0.1:5000/predict'
 
